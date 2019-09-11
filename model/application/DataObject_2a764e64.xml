@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales tax"
+    id="2a764e64"
+    documentation="Check box that indicates whether to apply sales tax to the cost. (This field is available in Calgary and later releases.)"/>

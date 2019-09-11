@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stages"
+    id="5054a846"
+    documentation="{in_progress, canceled, paused, completed, breached}"/>

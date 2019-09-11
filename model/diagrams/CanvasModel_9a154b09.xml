@@ -1,0 +1,163 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Value Streams"
+    id="9a154b09">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="5287ee63"
+      fillColor="#00a6dd"
+      borderColor="#000000"
+      content="Strategy to Portfolio&#xA;&#xA;(Pllan)">
+    <bounds
+        x="144"
+        y="20"
+        width="97"
+        height="89"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="595fa93e"
+      fillColor="#00a6dd"
+      borderColor="#000000"
+      content="Requirement to Deploy&#xA;&#xA;(Build)"
+      textPosition="1">
+    <bounds
+        x="252"
+        y="20"
+        width="97"
+        height="89"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="8a949d89"
+      fillColor="#00a6dd"
+      borderColor="#000000"
+      content="Request to Fulfill&#xA;&#xA;(Deliver)">
+    <bounds
+        x="360"
+        y="20"
+        width="97"
+        height="89"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="90c2e30c"
+      fillColor="#00a6dd"
+      borderColor="#000000"
+      content="Detect to Correct&#xA;&#xA;(Run)">
+    <bounds
+        x="468"
+        y="20"
+        width="97"
+        height="89"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="1f9b523c"
+      fontColor="#ffffff"
+      fillColor="#78447b"
+      borderColor="#000000"
+      content="Referenec Architecture"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="120"
+        width="421"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="c052fe2b"
+      fontColor="#000000"
+      fillColor="#60b3cf"
+      borderColor="#000000"
+      content="Governance Risk &amp; Compliance"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="168"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="60d8d78c"
+      fontColor="#000000"
+      fillColor="#60b3cf"
+      borderColor="#000000"
+      content="Sourcing &amp; Vendor"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="204"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="95886a45"
+      fontColor="#000000"
+      fillColor="#60b3cf"
+      borderColor="#000000"
+      content="Intelligence &amp; Reporting"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="240"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="e657a656"
+      fontColor="#000000"
+      fillColor="#60b3cf"
+      borderColor="#000000"
+      content="Finance &amp; Assets"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="276"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="6091b3b3"
+      fontColor="#000000"
+      fillColor="#60b3cf"
+      borderColor="#000000"
+      content="Resource and Project"
+      textPosition="4">
+    <bounds
+        x="144"
+        y="312"
+        width="421"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="d8d5e4b5"
+      borderColor="#ffffff"
+      content="Supporting Activities"
+      textPosition="4">
+    <bounds
+        x="36"
+        y="168"
+        width="73"
+        height="169"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="04910d4b"
+      borderColor="#ffffff"
+      content="Value Streams"
+      textPosition="4">
+    <bounds
+        x="36"
+        y="20"
+        width="73"
+        height="89"/>
+  </children>
+</canvas:CanvasModel>
